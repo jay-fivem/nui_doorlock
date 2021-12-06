@@ -4,7 +4,7 @@ A conversion of [nui_doorlock](https://github.com/thelindat/nui_doorlock) for [Q
 
 ## Info
 **[edited qb-radialmenu](https://github.com/jay-fivem/qb-radialmenu)**
-
+- Used for qb-radialmenu
 <hr>
 <p align="center"><img src='https://i.imgur.com/GU9JDaV.png'></img></p>
 <hr>
